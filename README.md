@@ -1,11 +1,11 @@
-# 🚀 Project Name
+# 🚀 BMS [ Blog Management System ]
 
-> A simple and efficient solution for managing [your main purpose].
+> A simple and efficient solution for managing your Blog Content.
 
 ## 📖 About
 
-**Project Name** is designed to help developers build and manage
-[your feature or system] easily.  
+**BMS** is designed to help developers build and manage
+your blog content system easily.  
 It focuses on simplicity, performance, and clean code.
 
 ## ✨ Features
